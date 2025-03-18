@@ -1,0 +1,5 @@
+*pm4py_dict filter=lfs diff=lfs merge=lfs -text
+*pm4py_times filter=lfs diff=lfs merge=lfs -text
+*pm4py_times_first filter=lfs diff=lfs merge=lfs -text
+*skip_dict filter=lfs diff=lfs merge=lfs -text
+*skip_times filter=lfs diff=lfs merge=lfs -text
