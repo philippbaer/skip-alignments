@@ -1,4 +1,6 @@
 # Skip Alignment Computation
+<sub><sup>Philipp Bär, Moe T. Wynn, and Sander J. J. Leemans</sup></sub>
+
 In process mining, alignments are a core concept to synchronize actual process executions with a process model.
 This repository contains the code to compute _skip alignments_ for a given trace and SBWF-net. The nets are given by their hierarchy, i.e., we represent them with process trees. We further provide the code to run the evaluation that is discussed in the paper "A Full Picture in Conformance Checking: Efficiently Summarizing All Optimal Alignments".
 
